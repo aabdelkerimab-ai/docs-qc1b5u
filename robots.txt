@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-sexlvs.lapinandwolf.co.nz/sitemap.xml
